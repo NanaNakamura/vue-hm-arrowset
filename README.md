@@ -1,6 +1,20 @@
 # vue-hm-closeset
 
-> A Vue.js project
+🍔ハンバーガーメニュー🍔 矢印に代わる.ver  
+とりあえず、2種類（それぞれ左右）  
+
+🍔<a href="https://nananakamura.github.io/c/vue-hm-arrowset/index.html" target="_blank">Demo</a>
+
+
+## Usage
+
+### type 1の場合
+#### HTML
+```
+<template>
+  <HamburgerMenuCloseSetType1></HamburgerMenuCloseSetType1>
+</template>
+```
 
 ## Build Setup
 

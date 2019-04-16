@@ -12,8 +12,23 @@
 #### HTML
 ```
 <template>
-  <HamburgerMenuCloseSetType1></HamburgerMenuCloseSetType1>
+  <HamburgerMenuArrowSetType1></HamburgerMenuArrowSetType1>
 </template>
+```
+
+#### scripts
+
+.vueファイルコンポーネントフォルダーにコピペして、  
+componentsに追加？
+
+```
+import HamburgerMenuArrowSetType1 from "HamburgerMenuArrowSetType1.vue";
+
+export default {
+  components: {
+    HamburgerMenuArrowSetType1
+  }
+}
 ```
 
 ## Build Setup
